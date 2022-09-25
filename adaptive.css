@@ -1,0 +1,19 @@
+@media (max-width: 500px) {
+    #main-text {
+        font-size: 25px;
+    }
+    #input-text {
+        width: 60%;
+        margin-left: 20%;
+    }
+    #counter {
+        width: 20%;
+        margin-left: 40%;
+    }
+    #button {
+        font-size: 20px;
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 50px;
+    }
+}
